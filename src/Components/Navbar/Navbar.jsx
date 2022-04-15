@@ -57,7 +57,7 @@ const Navbar = () => {
 				<a href='https://portfolioshubhv1-shubhamtammewar.vercel.app/'>
 					<div className={styles.logo}>
 						<img
-							src='https://cdn3.vectorstock.com/i/thumb-large/18/02/s-letter-dash-fast-quick-digital-mark-line-vector-39451802.jpg'
+							src='https://i.ibb.co/NFPwgjj/logo.png'
 							alt='Logo'
 						/>
 					</div>
