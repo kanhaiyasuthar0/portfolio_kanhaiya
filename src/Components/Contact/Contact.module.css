@@ -31,6 +31,7 @@
 	backface-visibility: hidden;
 	perspective: 1000px;
 }
+
 @keyframes shake {
 	10%,
 	90% {
@@ -89,9 +90,19 @@
 		font-size: 30px;
 		/* color: blanchedalmond; */
 		margin: 20px 5vw;
+		
+	}
+	.contactOptions{
+		flex-direction: column;
 	}
 	.copyright {
 		width: 70vw;
 		text-align: center;
 	}
+	/* #footerbtm{
+		display: flex;
+		flex-direction: column !important;
+	} */
 }
+
+

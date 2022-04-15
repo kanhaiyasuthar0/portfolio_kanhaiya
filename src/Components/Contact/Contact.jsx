@@ -19,7 +19,7 @@ const Contact = () => {
 					I'm actively looking for any new opportunities, in
 					full-stack web development.
 				</p>
-				<div
+				<div id='footerbtm'
 					style={{ color: `${newTheme.title}`, display:"flex", width:"100vw", justifyContent:"space-evenly" }}
 					className={styles.contactOptions}
 				>
